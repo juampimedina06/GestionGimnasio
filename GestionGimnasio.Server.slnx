@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="GestionGimnasio.Bd/GestionGimnasio.Bd.csproj" />
+  <Project Path="GestionGimnasio.Repositorio/GestionGimnasio.Repositorio.csproj" />
+  <Project Path="GestionGimnasio.Server/GestionGimnasio.Server.Client/GestionGimnasio.Server.Client.csproj" />
+  <Project Path="GestionGimnasio.Server/GestionGimnasio.Server/GestionGimnasio.Server.csproj" />
+  <Project Path="GestionGimnasio.Servicios/GestionGimnasio.Servicios.csproj" />
+  <Project Path="GestionGimnasio.Shared/GestionGimnasio.Shared.csproj" />
+</Solution>
